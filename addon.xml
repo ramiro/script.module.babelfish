@@ -4,7 +4,7 @@
        version="0.5.5"
        provider-name="Antoine Bertin">
   <requires>
-    <import addon="xbmc.python" version="2.20.0"/>
+    <import addon="xbmc.python" version="2.25.0"/>
   </requires>
   <extension point="xbmc.python.module"
              library="lib" />
