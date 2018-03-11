@@ -1,0 +1,2 @@
+0.5.5
+- Pack babelfish 0.5.5 for Isengard and later (Python>= 2.6)
